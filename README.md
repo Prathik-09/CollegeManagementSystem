@@ -17,9 +17,6 @@ A desktop-based Java application built using **SwingX** and **Java SE** in **Net
 - NetBeans IDE
 - MySQL (optional for DB-based version)
 
-## 📷 Screenshots
-
-*Add images here if you have them*
 
 ## 🚀 How to Run
 
